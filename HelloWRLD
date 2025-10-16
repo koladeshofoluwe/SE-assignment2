@@ -1,1 +1,6 @@
 This is the feature 2 branch version of the greeting!
+<<<<<<< HEAD
+This is the main branch version of the greeting!
+=======
+This is the feature-2 branch version of the greeting!
+>>>>>>> feature-2
