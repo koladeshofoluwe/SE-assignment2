@@ -1,7 +1,5 @@
 # SE-assignment2
 
-# SE-assignment2
-
 ## 📜 Project Description
 
 This repository serves as a practical project for the SE course, demonstrating proficiency in the fundamental concepts of **Git** for local version control and **GitHub** for remote collaboration and project management.
